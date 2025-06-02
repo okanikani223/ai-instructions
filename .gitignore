@@ -1,0 +1,5 @@
+# VSCode関連
+.vscode/
+
+# ワークスペース設定（個人用と判断する場合）
+*.code-workspace
